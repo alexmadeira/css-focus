@@ -5,6 +5,8 @@ Um projeto que desenvolvi para passar o tempo e me divertir.
 ## Preview
 
 
+[![Focus - Alex Madeira](https://focus.alexmadeira.com.br/preview.gif)](https://focus.alexmadeira.com.br)
+
 ## Começando
 
 Utilizei apenas HTML (básico), e CSS3, não é necessário nenhum pré-requisito para rodar a aplicação apenas um navegador :)
