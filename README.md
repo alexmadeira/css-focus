@@ -1,9 +1,8 @@
-# CSS3 - Focus 
+# CSS3 - Focus
 
 Um projeto que desenvolvi para passar o tempo e me divertir.
 
 ## Preview
-
 
 [![Focus - Alex Madeira](https://focus.alexmadeira.com.br/preview.gif)](https://focus.alexmadeira.com.br)
 
@@ -22,3 +21,8 @@ Não há rotina de deploy, utilizo a ferramenta [netlify]("https://www.netlify.c
 ## Licença
 
 Esse projeto não tem Licença mas sinta-se a vontade para olhar baixar copiar não tem problema :)
+
+### TODO
+
+- Ajustar tamanho de tela no Android
+- Ajustar movimentação do texto focado no Android
